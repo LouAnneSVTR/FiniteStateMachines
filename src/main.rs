@@ -1,3 +1,6 @@
+struct FST;
+
 fn main() {
-    println!("Hello, world!");
+    //Creation of the finite state machine
+    let finiteStateMachine = FSM;
 }
